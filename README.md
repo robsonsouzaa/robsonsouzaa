@@ -15,8 +15,6 @@ Me chamo Robson e sou mais um apaixonado por tecnologia e como utilizá-la para 
 **Estatísticas do Github  :bar_chart:**
 <br/>
 ![Github stats](https://github-readme-stats.vercel.app/api?username=robsonsouzaa&show_icons=true&include_all_commits=true&theme=omni&count_private=true&&hide=contribs)
-
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=robsonsouzaa&layout=compact&theme=omni)
 
 **Habilidades Tecnológicas**
